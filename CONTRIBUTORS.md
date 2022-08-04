@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [James Ambole](https://github.com/Wakambo)
+- Place: Embakasi, Nairobi, Kenya
+- Bio: Far from home..took a fork. Front-end Newbie.. HTML/CSS/JavaScript
+- GitHub: [Wakambo](https://github.com/Wakambo)
